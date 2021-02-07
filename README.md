@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-sardor%2Dhazratov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sardor-hazratov/)](https://www.linkedin.com/in/sardor-hazratov/)
+[![Linkedin Badge](https://img.shields.io/badge/-Sardor%20Hazratov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sardor-hazratov/)](https://www.linkedin.com/in/sardor-hazratov/)
 
 ----
 
