@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ----
 
-![serdarjan1995's GitHub stats](https://github-readme-stats.vercel.app/api?username=serdarjan1995&show_icons=true&theme=default&include_all_commits=true&count_private=true)
+![serdarjan1995's GitHub stats](https://github-readme-stats.vercel.app/api?username=serdarjan1995&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serdarjan1995&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
